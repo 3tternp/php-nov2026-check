@@ -44,7 +44,7 @@ For every PHP it finds the script:
 ## 🚀 Quick start
 
 ```bash
-git clone https://github.com/<your-org>/php-nov2026-check.git
+git clone https://github.com/3tternp/php-nov2026-check.git
 cd php-nov2026-check
 python3 php_nov2026_check.py
 ```
