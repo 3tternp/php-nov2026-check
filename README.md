@@ -10,7 +10,7 @@
 ![license](https://img.shields.io/badge/license-MIT-lightgrey)
 ![platform](https://img.shields.io/badge/platform-Linux%20%7C%20Windows%20%7C%20macOS-informational)
 
-Built by **Vairav Technology Security Pvt. Ltd.** · CSOC · Advisories `VTS-SA-2026-1120-PHP-NOV-RCE` and `VTS-SA-2026-1120-PHPAFTERSHELL`
+Built by **Astra** ·
 
 </div>
 
